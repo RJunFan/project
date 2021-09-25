@@ -1,0 +1,43 @@
+.navBar {
+    list-style-type: none;
+    text-align: center;
+    background-color: #000000;
+}
+
+.navBar li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.navBar li:hover {
+    background-color: #656565;
+}
+
+.navBar li a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.pr{
+    text-align:center;
+   
+}
+#pr2 {
+    line-height: 2px;
+}
+
+#pr3{
+    font-family:monospace;
+}
+
+.dd1{
+
+    display: inline-block;
+ width: 15%;
+    
+}
+
+.r1{
+    text-align: center;
+}
